@@ -45,7 +45,7 @@
         
         <h3>Posts:</h3>
         <ul class="entries">
-          {% for post in paginator.posts %}
+          {% for post in site.posts %}
           <li>
             <a href="{{ post.url }}">
             <h3>{{ post.title }}</h3>
