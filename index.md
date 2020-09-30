@@ -4,7 +4,7 @@ You've stumbled across the **ScH** blog! How benificial for both of us. I hope t
 
 ##Links:
 
-[My main site](https://sam-hildebrand.github.io)
+[~~My main site~~](https://sam-hildebrand.github.io) (Not up yet...)
 
 [My music site](https://sam-hildebrand.github.io/Sam_HildebrandMusic/)
 
