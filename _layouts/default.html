@@ -50,7 +50,7 @@
         <ul class="entries">
           {% for post in site.posts %}
           <li>
-            <a href="{{ post.url }}">
+            <a href="{{site.baseurl}}{{post.url}}">
             <h3>{{ post.title }}</h3>
             <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
             </a>
