@@ -1,6 +1,6 @@
 ## Welcome!
 
-You've stumbled across the **ScH** blog! How benificial for both of us. I hope to post my thought or stuff I do and things here occasionally.
+You've stumbled across the **ScH** blog! How benificial for both of us. I hope to post my thoughts or stuff I do and things here occasionally.
 
 ### Links:
 
