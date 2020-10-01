@@ -4,3 +4,8 @@ timezone: America/Chicago
 baseurl: /the-blog/
 permalink: :categories/:year/:month/:day/:title/
 google_analytics: UA-166133460-2
+
+emptyArray: []
+
+comments:
+  receiver: https://{{your-receiver-site}}/api/PostComment}}
