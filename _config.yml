@@ -8,4 +8,4 @@ google_analytics: UA-166133460-2
 emptyArray: []
 
 comments:
-  receiver: https://{{your-receiver-site}}/api/PostComment}}
+  receiver: https://sam-hildebrand.github.io/the-blog/api/PostComment}}
