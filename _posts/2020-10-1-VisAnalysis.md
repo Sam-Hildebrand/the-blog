@@ -22,8 +22,11 @@ Frederic Edwin Church (May 4, 1826 – April 7,1900) was born in Hartford, Conne
 > ![_New_England_Scenery_ (1851)](https://sam-hildebrand.github.io/the-blog/img/VisAnalysis/New_England_Scenery,_Frederic_Edwin_Church,_1851_-_Museum_of_Fine_Arts,_Springfield,_MA_-_DSC03984.JPG)
 
 > ### Details from Twilight in the Wilderness by Frederic Edwin Church:
-> |“the wilderness altar”:                                                   |“the three tree”:                                                         |"the bird on the left":                                                   |
-> |:-------------------------------------------------------------------------|:-------------------------------------------------------------------------|:-------------------------------------------------------------------------|
-> |![](https://sam-hildebrand.github.io/the-blog/img/VisAnalysis/Detail1.jpg)|![](https://sam-hildebrand.github.io/the-blog/img/VisAnalysis/Detail2.jpg)|![](https://sam-hildebrand.github.io/the-blog/img/VisAnalysis/Detail3.jpg)|    
+> “the wilderness altar”:  
+> ![](https://sam-hildebrand.github.io/the-blog/img/VisAnalysis/Detail1.jpg)
+> “the three tree”:
+> ![](https://sam-hildebrand.github.io/the-blog/img/VisAnalysis/Detail2.jpg)
+>  "the bird on the left":
+> ![](https://sam-hildebrand.github.io/the-blog/img/VisAnalysis/Detail3.jpg)    
 
 Twilight in the Wilderness depicts nature, not as god, but as the work of God. To understand a spiritual connotation in Twilight in the Wilderness, one must realize that just as the artist somewhat represents himself in his artwork, so, perhaps would God represent himself in his handiwork. Church’s dedication to the intricate detail in the trees is perhaps comparable to the Creator’s dedication to the intricate detail in the universe. As Church perhaps prided himself with the glory and beauty of his sunset, so would God at his creation. As Church spent time carefully painting each tree in a vast forest, perhaps God spends time forming individual people in vast world.Art reflects nature as nature reflects God. Church’s Twilight inthe Wilderness reflects the American northeast reflecting an individual’scommunication with God. However, maybe for you it does not reflectan individual’s communication with God. Maybe it is just a pretty picture. Maybe something else speaks to you. Reflection is dependenton perspective. Art not only reflects nature; it reflects the nature of the viewer.
