@@ -24,7 +24,7 @@ Frederic Edwin Church (May 4, 1826 – April 7,1900) was born in Hartford, Conne
 > ### Details from Twilight in the Wilderness by Frederic Edwin Church:
 > ### “the wilderness altar”:  
 > ![](https://sam-hildebrand.github.io/the-blog/img/VisAnalysis/Detail1.jpg)
-> ### “the three tree”:
+> ### “the three trees”:
 > ![](https://sam-hildebrand.github.io/the-blog/img/VisAnalysis/Detail2.jpg)
 > ### "the bird on the left":
 > ![](https://sam-hildebrand.github.io/the-blog/img/VisAnalysis/Detail3.jpg)    
