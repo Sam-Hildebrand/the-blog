@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+
 name: Sam Hildebrand's blog
 permalink: /the-blog/:year/:month/:day/:title:output_ext
 google_analytics: UA-166133460-2
