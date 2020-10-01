@@ -1,6 +1,6 @@
 theme: jekyll-theme-midnight
 name: Sam Hildebrand's blog
 timezone: America/Chicago
-permalink: /the-blog/:categories/:year/:month/:day/:title:output_ext
+permalink: /:categories/:year/:month/:day/:title:output_ext
 google_analytics: UA-166133460-2
 baseurl: /the-blog/
