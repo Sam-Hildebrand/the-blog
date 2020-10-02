@@ -11,6 +11,7 @@ and,  therefore, read by religious people. Religious people are highly susceptib
 
 It is in the fallen nature of man to be hypocritical. When God call out to Adam in the garden, Adam replied, 
 > "...I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself."(Gen. 3:10). 
+
 What I believe Adam is saying here is essentially,
 > 1. I sinned.
 > 2. I realized my shame caused by my sin, but... 
