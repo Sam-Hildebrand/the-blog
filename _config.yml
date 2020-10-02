@@ -6,3 +6,7 @@ permalink: :categories/:year/:month/:day/:title/
 google_analytics: UA-166133460-2
 layout: default
 future: false
+
+name:         "the ScH blog"
+description:  Sam Hildebrand's personal blog
+url:          https://sam-hildebrand.github.io/the-blog
