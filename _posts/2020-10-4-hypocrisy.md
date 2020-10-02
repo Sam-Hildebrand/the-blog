@@ -16,6 +16,7 @@ What I believe Adam is saying here is essentially,
 > 1. I sinned.
 > 2. I realized my shame caused by my sin, but... 
 > 3. Rather than admit my sin and face the consequences, I've covered it as well as I can.
+
 This three step is the definition of hypocrisy.
 
  Adam saw the shame in sin. This characteristic shows he was a child of God. However he failed to realize that, even though the consequences
