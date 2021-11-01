@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
+
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
@@ -15,13 +15,15 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    
+
   </head>
   <body>
       <div id="header">
         <nav>
-          <li class="fork"><a href="https://sam-hildebrand.github.io/the-blog"><img src="/the-blog/img/logo3.png" alt="Sam Hildebrand"></a></li>
-          <li class="downloads"><a href="https://sam-hildebrand.github.io/the-blog/feed.xml"><img src="/the-blog/img/RSS.png" alt="RSS"></a></li>
+          <ul>
+            <li class="fork"><a href="https://sam-hildebrand.github.io/the-blog"><img src="/the-blog/img/logo3.png" alt="Sam Hildebrand"></a></li>
+            <li class="downloads"><a href="https://sam-hildebrand.github.io/the-blog/feed.xml"><img src="/the-blog/img/RSS.png" alt="RSS"></a></li>
+          </ul>
         </nav>
       </div><!-- end header -->
 
@@ -30,13 +32,13 @@
       <section>
 
         {{ content }}
-        
+
         <div id="title">
           <hr>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
-       </div>       
-          
+       </div>
+
         <h3>Posts:</h3>
         <ul class="entries">
           {% for post in site.posts %}
