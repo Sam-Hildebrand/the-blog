@@ -8,6 +8,8 @@ _(Hey! this blog has [RSS](https://sam-hildebrand.github.io/the-blog/feed.xml)!)
 
 [~~My main site~~](https://sam-hildebrand.github.io) (Not up yet...)
 
+[LinkedIn](https://www.linkedin.com/in/samuel-hildebrand/)
+
 [My music site](https://sam-hildebrand.github.io/Sam_HildebrandMusic/)
 
 [Music Youtube](https://www.youtube.com/channel/UC7o5yXD-2vhfELrREXGvzvQ/)
