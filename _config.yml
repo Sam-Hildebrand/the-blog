@@ -12,8 +12,3 @@ future: false
 name:         "the ScH blog"
 description:  Sam Hildebrand's personal blog
 url:          https://sam-hildebrand.github.io/the-blog
-
-collections:
-  authors:
-    output: true
-    permalink: /author/:author/
