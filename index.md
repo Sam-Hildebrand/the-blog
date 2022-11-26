@@ -1,3 +1,7 @@
+---
+layout: index
+title: Home
+---
 ## Welcome!
 
 You've stumbled across the **ScH** blog! How benificial for both of us. I hope to post my thoughts or stuff I do and things here occasionally.
@@ -6,7 +10,7 @@ _(Hey! this blog has [RSS](https://sam-hildebrand.github.io/the-blog/feed.xml)!)
 
 ### Links:
 
-[~~My main site~~](https://sam-hildebrand.github.io) (Not up yet...)
+[~~My main site~~](https://sam-hildebrand.github.io) (Links back here...)
 
 [LinkedIn](https://www.linkedin.com/in/samuel-hildebrand/)
 
