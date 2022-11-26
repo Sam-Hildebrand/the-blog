@@ -14,7 +14,7 @@ _(Hey! this blog has [RSS](https://sam-hildebrand.github.io/the-blog/feed.xml)!)
 
 [Music Youtube](https://www.youtube.com/channel/UC7o5yXD-2vhfELrREXGvzvQ/)
 
-[Instagram](https://www.instagram.com/sam__hildebrand/)
+[Github](https://www.github.com/Sam-Hildebrand)
 
 [Soundcloud](https://soundcloud.com/sam_hildebrandmusic)
 
