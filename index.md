@@ -1,6 +1,7 @@
 ---
 layout: index
 title: Home
+verse: "Matthew 10:16"
 ---
 ## Welcome!
 
@@ -23,3 +24,4 @@ _(Hey! this blog has [RSS](https://sam-hildebrand.github.io/the-blog/feed.xml)!)
 [Soundcloud](https://soundcloud.com/sam_hildebrandmusic)
 
 Have a great day!
+

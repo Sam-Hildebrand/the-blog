@@ -2,6 +2,7 @@
 title:  "Lunar Backgrounds"
 date: 2021-5-19 11:00:00 -0000
 published: true
+verse: "Deut. 33:13-17"
 ---
 
 > This a composite image from several shot through my telescope last night. If you need a different size or aspect ratio feel free to contact me. All are © by me all rights reserved, feel free to use personally, do not redistribute, and no commercial use.
