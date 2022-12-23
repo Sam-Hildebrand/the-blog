@@ -13,7 +13,7 @@ I've been playing around with HacktheBox and TryHackMe lately, here's how I'm do
 
 <div class="flex-container">
     <div><script src="https://tryhackme.com/badge/1158760"></script></div>
-    <div class="right-badge"><script src="https://www.hackthebox.eu/badge/351443"></script></div>
+    <div class="right-badge"><a href="https://app.hackthebox.com/profile/351443"><script src="https://www.hackthebox.eu/badge/351443"></script></a></div>
 </div>
 <p></p>
 
