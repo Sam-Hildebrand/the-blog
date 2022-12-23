@@ -32,6 +32,33 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+
+    <style>
+        .flex-container {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+            align-items: flex-end;
+        }
+    
+        .right-badge {
+            align-self: center;
+        }
+    
+        @media (max-width: 520px) {
+            .flex-container {
+                display: flex;
+                flex-flow: column;
+                justify-content: center;
+                align-items: center;
+            }
+    
+            .right-badge {
+                align-self: center;
+                padding-left: 26px;
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -51,7 +78,7 @@
                 <span class="credits left"><a href="https://verify.comptia.org" title="Psst... Do you want to make sure I'm not lying about who I say I am? Then copy the code below this image, click this image, and paste the code.">
                     <img src="/the-blog/img/SecurityPlus Logo Certified CE White.png"/></a>
                     <br><center>0QD48L8SKNBQ1E3C</center></span>
-                <span class="credits right"></span><h1><a href="https://sam-hildebrand.github.io/the-blog">  Hi, I'm Sam Hildebrand</a></h1><br><center>Hacker, Programmer, Nerd</center></span>
+                <span class="credits right"></span><h1><a href="https://sam-hildebrand.github.io/the-blog">  Hi, I'm Sam Hildebrand</a></h1><br><center>Hacker, Programmer, Nerd</center>
                 <p></p>
                 <a href="https://www.github.com/Sam-Hildebrand"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sam-Hildebrand&theme=gruvbox" /></a>
                 <hr>
@@ -62,9 +89,7 @@
             {{ content }}
 
             <hr>
-
             <p>{% if page.verse != null %}<strong>{{ page.verse }}</strong> | {% endif %}Duscuss posts at <a href="https://www.reddit.com/r/theScH_blog/">r/theScH_blog</a>.</p>
-
             <hr>
 
             <h3>Posts:</h3>
@@ -80,8 +105,8 @@
             </ul>
 
         </section>
-
     </div>
+
 </body>
 
 </html>

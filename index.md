@@ -9,6 +9,14 @@ You've stumbled across the **ScH** blog! How benificial for both of us. I hope t
 
 _(Hey! this blog has [RSS](https://sam-hildebrand.github.io/the-blog/feed.xml)!)_
 
+I've been playing around with HacktheBox and TryHackMe lately, here's how I'm doing:
+
+<div class="flex-container">
+    <div><script src="https://tryhackme.com/badge/1158760"></script></div>
+    <div class="right-badge"><script src="https://www.hackthebox.eu/badge/351443"></script></div>
+</div>
+<p></p>
+
 ### Links:
 
 [~~My main site~~](https://sam-hildebrand.github.io) (Links back here...)
