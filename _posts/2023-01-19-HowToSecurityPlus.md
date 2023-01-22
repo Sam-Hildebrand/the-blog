@@ -23,7 +23,7 @@ Total Cost:<br>
 = ~$400 + many lost hours of sleep. I think it was worth it though.
 
 Other Notes:
-1. I can't actually say how much it actually may have helped with the exam, but I like to listen to cybersecurity-related podcasts throughout the day. It's a great way to stay up to speed with what's happening in the cybersecurity industry, as well as learn about some of the terms and technologies that cybersecurity professionals use. I've listed a few that might be helpful below:
+1. I can't say how much it actually may have helped with the exam, but I like to listen to cybersecurity-related podcasts throughout the day. It's a great way to stay up to speed with what's happening in the cybersecurity industry, as well as learn about some of the terms and technologies that cybersecurity professionals use. I've listed a few that might be helpful below:
    - Cyberwire Daily (this is daily news and updates about everything cybersecurity-related. Intended for security professionals, so might be a bit hard to get into at first. Anything by Cyberwire is good, but if you only have time for one podcast in this list do the Cyberwire Daily.)
    - Security Now from TWiT (I'll be honest, this is a weekly podcast and each episode is usually around 2 hours long, so maybe only do it if you're really into cybersecurity. Also, the hosts are both a bit older so it sometimes gives an "old man yells at cloud" feel, but it's a different perspective from the Cyberwire)
 
