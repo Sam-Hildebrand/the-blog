@@ -27,4 +27,4 @@ So by now it's the last day of school for the year, and nobody will be at this s
 And that was the story of how I accidentally named a cat George.
 
 ## Epilogue
-George the cat passed away recently, so I'm told, and it was a sad day for all involved. He is survived by his widow, Cassy/Chasis/The School Cat who honors his legacy by bearing more and more kittens by various suitors, continuing the problem that we could not solve - that of too many cats. To my knowledge none of them have even caught a mouse.
+George the cat passed away recently, so I'm told, and it was a sad day for all involved. He is survived by his widow, Cassy/Chasis/The School Cat who honors his legacy by bearing more and more kittens by various suitors, continuing the problem that we could not solve - that of too many cats. To my knowledge none of them have ever caught a mouse.
