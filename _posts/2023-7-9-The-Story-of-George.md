@@ -3,7 +3,7 @@ title:  "The Story of George (the cat)"
 date: 2023-7-9 22:00:00 -0000
 ---
 
-> All of the names in this story have been changed to protect the privacy of the individuals involved, except for George, for whom I recieved special permission from the George the Cat Foundation to use his real name and life's story.
+> This is a true story. All of the names in this story have been changed to protect the privacy of the individuals involved, except for George, for whom I recieved special permission from the George the Cat Foundation to use his real name and life's story.
 
 ## Prelude
 So basically I was homeschooled K-12, but except for the last bit of my senior year because of Covid and some other stuff, it was never at home. It was kind of a church school with at least a few of us, and for a good portion of it we were allowed to hold school in this three room building on the church property, that was built about 1960. It was old and had all sorts of electrical issues and other stuff, but like all old building, it should be noted that it had mice...
@@ -27,4 +27,4 @@ So by now it's the last day of school for the year, and nobody will be at this s
 And that was the story of how I accidentally named a cat George.
 
 ## Epilogue
-George the cat passed away recently, so I'm told, and it was a sad day for all involved. He is survived by his widow, Cassy/Chasis/The School Cat who honors his legacy by bearing more and more kittens by various suitors, continuing the problem that we could not solve - that of too many cats. To my knowledge none of them have even caught a mouse.
+George the cat passed away recently, so I'm told, and it was a sad day for all involved. He is survived by his widow, Cassy/Chasis/The School Cat who honors his legacy by bearing more and more kittens by various suitors, continuing the problem that we could not solve - that of too many cats. To my knowledge none of them have ever caught a mouse.
