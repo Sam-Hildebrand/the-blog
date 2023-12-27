@@ -19,11 +19,9 @@ I've been playing around with HacktheBox and TryHackMe lately, here's how I'm do
 
 ### Links:
 
-[~~My main site~~](https://sam-hildebrand.github.io) (Links back here...)
+["Shell" - my online terminal toy](https://sam-hildebrand.github.io/shell)
 
 [LinkedIn](https://www.linkedin.com/in/samuel-hildebrand/) <-- Best way to contact me
-
-[My music site](https://sam-hildebrand.github.io/Sam_HildebrandMusic/)
 
 [Music Youtube](https://www.youtube.com/channel/UC7o5yXD-2vhfELrREXGvzvQ/)
 
