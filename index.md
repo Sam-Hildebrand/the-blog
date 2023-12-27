@@ -5,7 +5,7 @@ verse: "Matthew 10:16"
 ---
 ## Welcome!
 
-You've stumbled across the **ScH** blog! How benificial for both of us. I hope to post my thoughts or stuff I do and things here occasionally.
+You've stumbled across the **ScH** blog! How beneficial for both of us. I hope to post my thoughts or stuff I do and things here occasionally.
 
 _(Hey! this blog has [RSS](https://sam-hildebrand.github.io/the-blog/feed.xml)!)_
 
@@ -21,7 +21,7 @@ I've been playing around with HacktheBox and TryHackMe lately, here's how I'm do
 
 [~~My main site~~](https://sam-hildebrand.github.io) (Links back here...)
 
-[LinkedIn](https://www.linkedin.com/in/samuel-hildebrand/)
+[LinkedIn](https://www.linkedin.com/in/samuel-hildebrand/) <-- Best way to contact me
 
 [My music site](https://sam-hildebrand.github.io/Sam_HildebrandMusic/)
 
