@@ -1,6 +1,7 @@
 ---
 title:  "Monday Devotional: Hypocrisy"
 date: 2020-10-5 6:00:00 -0000
+published: false
 ---
 
 ## Monday Devotional: Hypocrisy
